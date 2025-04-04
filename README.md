@@ -38,6 +38,9 @@ Industries like automotive and media show a correlation between AI adoption, rev
 
 ![image](https://github.com/user-attachments/assets/ead4931a-d5af-445e-af61-132a3cbcbfe1)
 
+
+![image](https://github.com/user-attachments/assets/2a4a366a-af4d-40bb-9fa8-ce79ba1bad4f)
+
 # Recommendations
 Encourage transparency in AI usage to build consumer trust.
 
